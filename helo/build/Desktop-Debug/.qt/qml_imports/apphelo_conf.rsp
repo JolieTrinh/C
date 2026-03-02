@@ -1,0 +1,14 @@
+-rootPath
+/Users/jolietrinh/C++/helo
+-cmake-output
+-output-file
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/qml_imports/apphelo_conf.cmake
+-importPath
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/helo
+-importPath
+/Users/jolietrinh/C++/helo/build/Desktop-Debug
+-importPath
+/Users/jolietrinh/Qt/6.10.1/macos/qml
+-qrcFiles
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/rcc/qmake_helo.qrc
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/rcc/apphelo_raw_qml_0.qrc

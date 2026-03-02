@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/helo/">
+    <file alias="Main.qml">/Users/jolietrinh/C++/helo/Main.qml</file>
+  </qresource>
+</RCC>
+

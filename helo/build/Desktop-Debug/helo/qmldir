@@ -1,0 +1,6 @@
+module helo
+typeinfo apphelo.qmltypes
+prefer :/qt/qml/helo/
+Main 254.0 Main.qml
+depends QtQuick
+

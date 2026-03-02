@@ -1,0 +1,10 @@
+--bare
+-I
+/Users/jolietrinh/C++/helo/build/Desktop-Debug
+-I
+/Users/jolietrinh/Qt/6.10.1/macos/qml
+--resource
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/rcc/qmake_helo.qrc
+--resource
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/rcc/apphelo_raw_qml_0.qrc
+/Users/jolietrinh/C++/helo/Main.qml

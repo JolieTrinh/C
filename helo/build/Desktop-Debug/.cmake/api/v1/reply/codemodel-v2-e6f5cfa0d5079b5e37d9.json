@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7f31319f53cff46ac61d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "helo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-bc4a61994390b8aa5ade.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-27a0042b17a36fc714f8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-020fbefe6791363203db.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-08ee9699766db81e5db2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b06e0632c768fd3a7fab.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo-Debug-480ba93555e35edc486c.json",
+					"name" : "apphelo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_autogen-Debug-8d14cd10b223232fc2b5.json",
+					"name" : "apphelo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_autogen_timestamp_deps-Debug-a5a70d28548d1ca594a1.json",
+					"name" : "apphelo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_copy_qml-Debug-05e0ffb4de0380cec709.json",
+					"name" : "apphelo_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_copy_res-Debug-bf95f51b2f69814b71b8.json",
+					"name" : "apphelo_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_qmlimportscan-Debug-9c56853f74d35518fae6.json",
+					"name" : "apphelo_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_qmllint-Debug-b266c3af99ed2a6c20b5.json",
+					"name" : "apphelo_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_qmllint_json-Debug-e6de702bba3be3fe1353.json",
+					"name" : "apphelo_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_qmllint_module-Debug-347e2d7ab88de49d0f52.json",
+					"name" : "apphelo_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphelo_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphelo_qmltyperegistration-Debug-1a99dc42d39f227021c2.json",
+					"name" : "apphelo_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-879339c373ab3d03441f.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_apphelo_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_apphelo_aotstats_target-Debug-a3c4356bfd130b49014c.json",
+					"name" : "module_apphelo_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jolietrinh/C++/helo/build/Desktop-Debug",
+		"source" : "/Users/jolietrinh/C++/helo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

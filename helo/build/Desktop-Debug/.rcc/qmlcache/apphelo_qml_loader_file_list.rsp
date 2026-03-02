@@ -1,0 +1,5 @@
+--resource
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/rcc/qmake_helo.qrc
+--resource
+/Users/jolietrinh/C++/helo/build/Desktop-Debug/.qt/rcc/apphelo_raw_qml_0.qrc
+/qt/qml/helo/Main.qml
